@@ -1,3 +1,3 @@
-#Zero Triangles
+# Zero G
 
-A basic abstraction library for working with triangles
+A basic abstraction library for working with geometric primitives
