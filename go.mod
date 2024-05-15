@@ -1,4 +1,4 @@
-module github.com/Anaxarchus/zero-triangles
+module github.com/Anaxarchus/zero-g
 
 go 1.21.4
 
